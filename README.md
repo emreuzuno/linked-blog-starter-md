@@ -3,3 +3,6 @@ These are the markdown files for the [linked-blog-starter](https://github.com/ma
 
 back up
 deneme
+
+back up note local
+C:\Users\yl2109\OneDrive - UK Atomic Energy Authority\Notes 
